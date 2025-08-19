@@ -78,7 +78,7 @@ This project investigates whether **texture-based features** (GLCM, LBP, wavelet
 ---
 
 ## 🖼️ Project Presentation
-📑 [View Presentation Slides](TeamA_CAC2_PPT (1).pdf)
+📑 [View Presentation Slides](TeamA_CAC2_PPT(1).pdf)
 
 ---
 
