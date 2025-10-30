@@ -81,10 +81,3 @@ This project investigates whether **texture-based features** (GLCM, LBP, wavelet
 📑 [View Presentation Slides](TeamA_CAC2_PPT(1).pdf)
 
 ---
-
-## 👥 Team
-**Team A**  
-- Project Contributors: Shrutika Gupta, Puspita Biswas, Agrawal Raj, Jaya Mary Jennifer D., Harsha K. 
-- Department of Computer Science, CHRIST(Deemed to be University), Bangalore, Yeshwanthpur Campus  
-
----
